@@ -164,7 +164,8 @@ Features:
 ### Web Dashboard Preview
 <img width="515" height="977" alt="dasboard" src="https://github.com/user-attachments/assets/460a8c80-2cf4-4c29-b6d4-b2d57bd927a7" />
 
-<img width="1302" height="792" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/17c3cb61-55e2-422a-b663-5bd87e904cef" />
+<img width="1600" height="788" alt="web-dashboard" src="https://github.com/user-attachments/assets/6eff7bd6-bbf2-4571-96e3-8c490960a88b" />
+
 
 
 ---
